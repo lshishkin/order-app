@@ -21,12 +21,12 @@ ______________________________
     **Обязательные:**
     `number=[number]`
     `companyName=[string]`
-    **Опциональные:**
-    `date=[string]`
+     `date=[string]`
     `fullName=[string]`
     `phone=[string]`
-    `comments=[string]`
     `ati=[string]`
+    **Опциональные:**
+    `comments=[string]`
 ______________________________
   **Получение всех заявок**
 
